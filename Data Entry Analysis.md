@@ -10,3 +10,10 @@
 7. Ambiguous graph. There is no title and labels for the graph, which makes us confused about the meaning of graph.
 8. Confusing data. In “zoop-temp-main” file, field H23 is confusing data “*”, it doesn’t mention the meaning of “*”, which makes us confused.  
 9. Unreliable data analysis. In the file “zoop-temp”, it mentions at the beginning that the Max Depth is 72m. However, based on the data provided, we can see that the Max Depth is 50, which means it may lose some data and results unreliable data analysis. 
+
+### **Q2 Recommend System**
+According to the background and dataset, I will suggest the organization to use data collection system, which is a computer application that facilitates the process of data collection, allowing specific, structured information to be gathered in a systematic fashion. With data collection system, it helps aggregate and evaluate sets of information in a consistent and efficient way. Furthermore, relying on advanced technology, the new system can take huge amount of data, and analyze it correctly. It can solve the problem such as data missing, and it can help reduce updating errors and increase consistency. 
+
+| Date | Time | Main Species |Main Species density per ml | Tempeture(℉ ) | Depth(m) | Colony Diameter(ml) | Chippo #/L | Chippo ColonySize(mm) | Cuni #/L | Cuni ColonySize(mm) | ChlorophyII a | 
+|------|------|--------------|----------------------------|----------------|----------|---------------------|------------|----------
+---------------|------------|--------------------|---------------|
