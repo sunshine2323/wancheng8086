@@ -18,6 +18,6 @@ According to the background and dataset, I will suggest the organization to use 
  |:---- |:---- |:------------ |:-------------------------- |:-------------- |:-------- |:------------------- |:---------- |:---------
  -------------- |:---------- |:------------------ |:------------- |
  
-| Date | Time | Main Species | Main Species density per ml | Tempeture | 
+| Date  |Time | Main Species | Main Species density per ml  | Tempeture(℉ ) | Depth(m) | Colony Diameter(ml) | Chippo #/L | Chippo ColonySize  | Cuni #/L | Cuni ColonySize(mm) |  ChlorophyII a |   |   |   |
+|-------|-----|--------------|------------------------------|----------------|----------|---------------------|-----------|--------------|---|---|---|---|---|---|
 
-|------|-----|---------------|-----------------------------|-----------| 
