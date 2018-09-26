@@ -39,24 +39,25 @@ Based on the eagle datasets and the client’s requirement, Eagle data is split 
 How to collect bald eagle nesting monitoring data is observing the nest activities for roughly half an hour or 45 minutes as long as volunteers or citizen scientists stand there to keep track of adult eagles coming and going, their behaviors and weather to see how the weather impact their activities (OWC video).
 
 Variable (OWC data sheet):
-Eagle Nest Destination
-Observer’s direction to nest
-Nest Condition
-Nest Status
-Date
-Observer
-Weather: Temperature, Cloud Cover %, Wind Velocity/Direction, Precipitation
-Equipment
-Start Time
-End Time
-Time of Each Observation
-#Birds Present & Plumages
-#Birds on Nest
-Behavior of Adults
-Approx. # of Eggs
-Approx. # of Chicks
-If feeding, characteristics of prey
-Additional Comments
+* Eagle Nest Destination
+* Observer’s direction to nest
+* Nest Condition
+* Nest Status
+* Date
+* Observer
+* Weather: Temperature, Cloud Cover %, Wind Velocity/Direction, Precipitation
+* Equipment
+* Start Time
+* End Time
+* Time of Each Observation
+* #Birds Present & Plumages
+* #Birds on Nest
+* Behavior of Adults
+* Approx. # of Eggs
+* Approx. # of Chicks
+* If feeding, characteristics of prey
+* Additional Comments
+
 Based on the analysis of the above attributes of Bald Eagle nesting Monitoring data, our team want to know more about how climate impacts bald eagle nesting behaviors. 
 ___
 ### **Reference:**
