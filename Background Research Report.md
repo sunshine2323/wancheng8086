@@ -62,10 +62,10 @@ Based on the analysis of the above attributes of Bald Eagle nesting Monitoring d
 ___
 ### **Reference:**
 
-Ohio DNR Division of Wildlife. (n.d.). Ohio.gov / Search. Retrieved from 
-http://wildlife.ohiodnr.gov/oldwomancreek
-Platt, D. (2016, September 09). Old Woman Creek State Nature Preserve. Retrieved from https://trekohio.com/2016/09/08/old-woman-creek-state-nature-preserve/
-Old Woman Creek features freshwater estuary, wetlands, woods, hikes, paddles, visitor center. (2013, July 06). Retrieved from 
+1. Ohio DNR Division of Wildlife. (n.d.). Ohio.gov / Search. Retrieved from http://wildlife.ohiodnr.gov/oldwomancreek
+2. Platt, D. (2016, September 09). Old Woman Creek State Nature Preserve. Retrieved from https://trekohio.com/2016/09/08/old-woman-creek-state-nature-preserve/
+3. Old Woman Creek features freshwater estuary, wetlands, woods, hikes, paddles, visitor center. (2013, July 06). Retrieved from 
 https://www.ohio.com/akron/lifestyle/old-woman-creek-features-freshwater-estuary-wetlands-woods-hikes-paddles-visitor-center
-U.S. Fish and Wildlife Service. 2009. Post-delisting Monitoring Plan for the Bald Eagle (Haliaeetus leucocephalus) in the Contiguous 48 States. U.S. Fish and Wildlife Service, Divisions of Endangered Species and Migratory Birds and State Programs, Midwest Regional Office, Twin Cities, Minnesota. 75 pp.
-Old Woman Creek National Estuarine Research Reserve
+4. U.S. Fish and Wildlife Service. 2009. Post-delisting Monitoring Plan for the Bald Eagle (Haliaeetus leucocephalus) in the Contiguous 48 States. U.S. Fish and Wildlife Service, Divisions of Endangered Species and Migratory Birds and State Programs, Midwest Regional Office, Twin Cities, Minnesota. 75 pp.
+5. Old Woman Creek National Estuarine Research Reserve
+6. Old Woman Creek Video
