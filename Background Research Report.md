@@ -14,20 +14,20 @@ With thousands of species of birds, human influences such as logging and urbaniz
 With different trails, birds are in different places depending on their habitat preferences. How to collect the AVIAN Monitoring data requires citizen scientists or volunteers come to the point and stand there 15 minutes for observation, and record everything they see and hear in that 15 minutes. Then, the citizen scientists or volunteers require fill out the form which contains the critical attributes for the dataset. Based on the analysis of the following collecting data on AVIAN monitoring, our team want to get better idea about how the species of birds will choose their habitat preferences based on climate change or other factors.
 
 Variable (OWC data sheet):
-Avian Monitoring Route
-Date
-Observer
-Weather: Temperature, Cloud Cover, Wind Speed, Wind Direction, Humidity
-Precipitation
-Vegetation: %cover
-Equipment
-Start Time
-End Time
-Sound Distance
-Time of Observation
-Species Code
-Heard/Seen
-Number of Birds
+* Avian Monitoring Route
+* Date
+* Observer
+* Weather: Temperature, Cloud Cover, Wind Speed, Wind Direction, Humidity
+* Precipitation
+* Vegetation: %cover
+* Equipment
+* Start Time
+* End Time
+* Sound Distance
+* Time of Observation
+* Species Code
+* Heard/Seen
+* Number of Birds
 
 ### **Bald Eagle Data:**
 Bald eagles live near rivers, lakes and marches where they can find fish. Except fish, they also feed on waterfowl, turtles, rabbits, snakes and other small animals and carrion. According to the client’s documentations, it mentions that population of bald eagle declined initially due to hunting around 100 years ago. There were various of reasons making bald eagle endangered including habitat destruction and degradation, illegal shooting, and the contamination of its food source. Besides human impact, the chemical DDT (Dichlorodiphenyltrichloroethane) pesticide was commonly used on farms, and found its way flow into rivers, streams and lakes, which was regarded as another big reason making bald eagle endangered as fish the main food for eagles became contaminated. In addition, caused by DDT, eagle egg shells were extremely thin and therefore crushed during the incubation period without hatching success. Thus, in 1959, only 15 pairs of eagles were found in Ohio. And bald eagle nest monitoring at Old Woman Creek was initiated by the State of Ohio in an effort to track eagle recovery in response to the DDT crisis and subside around 1999 (“U.S. Fish and Wildlife Service.”, 2009).
